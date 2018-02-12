@@ -1,0 +1,14 @@
+G:\SynchronizationContextTestDemo\TestDemo\bin\Release\TestSynchronizationContextDemo.exe.config
+G:\SynchronizationContextTestDemo\TestDemo\bin\Release\TestSynchronizationContextDemo.exe
+G:\SynchronizationContextTestDemo\TestDemo\bin\Release\TestSynchronizationContextDemo.pdb
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestSynchronizationContextDemo.csprojResolveAssemblyReference.cache
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\MainWindow.baml
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\MainWindow.g.cs
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\App.g.cs
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestSynchronizationContextDemo_MarkupCompile.cache
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestSynchronizationContextDemo.g.resources
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestSynchronizationContextDemo.Properties.Resources.resources
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestSynchronizationContextDemo.csproj.GenerateResource.Cache
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestSynchronizationContextDemo.csproj.CoreCompileInputs.cache
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestSynchronizationContextDemo.exe
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestSynchronizationContextDemo.pdb

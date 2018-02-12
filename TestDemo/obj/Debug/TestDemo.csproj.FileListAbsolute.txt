@@ -1,0 +1,14 @@
+G:\SynchronizationContextTestDemo\TestDemo\bin\Debug\TestDemo.exe.config
+G:\SynchronizationContextTestDemo\TestDemo\bin\Debug\TestDemo.exe
+G:\SynchronizationContextTestDemo\TestDemo\bin\Debug\TestDemo.pdb
+G:\SynchronizationContextTestDemo\TestDemo\obj\Debug\MainWindow.g.cs
+G:\SynchronizationContextTestDemo\TestDemo\obj\Debug\App.g.cs
+G:\SynchronizationContextTestDemo\TestDemo\obj\Debug\TestDemo_MarkupCompile.cache
+G:\SynchronizationContextTestDemo\TestDemo\obj\Debug\TestDemo_MarkupCompile.lref
+G:\SynchronizationContextTestDemo\TestDemo\obj\Debug\MainWindow.baml
+G:\SynchronizationContextTestDemo\TestDemo\obj\Debug\TestDemo.g.resources
+G:\SynchronizationContextTestDemo\TestDemo\obj\Debug\TestDemo.Properties.Resources.resources
+G:\SynchronizationContextTestDemo\TestDemo\obj\Debug\TestDemo.csproj.GenerateResource.Cache
+G:\SynchronizationContextTestDemo\TestDemo\obj\Debug\TestDemo.csproj.CoreCompileInputs.cache
+G:\SynchronizationContextTestDemo\TestDemo\obj\Debug\TestDemo.exe
+G:\SynchronizationContextTestDemo\TestDemo\obj\Debug\TestDemo.pdb

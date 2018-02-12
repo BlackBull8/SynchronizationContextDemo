@@ -1,0 +1,14 @@
+G:\SynchronizationContextTestDemo\TestDemo\bin\Release\TestSynExceptionDemo.exe.config
+G:\SynchronizationContextTestDemo\TestDemo\bin\Release\TestSynExceptionDemo.exe
+G:\SynchronizationContextTestDemo\TestDemo\bin\Release\TestSynExceptionDemo.pdb
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\MainWindow.baml
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\MainWindow.g.cs
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\App.g.cs
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestSynExceptionDemo_MarkupCompile.cache
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestSynExceptionDemo.g.resources
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestSynExceptionDemo.Properties.Resources.resources
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestSynExceptionDemo.csproj.GenerateResource.Cache
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestSynExceptionDemo.csproj.CoreCompileInputs.cache
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestSynExceptionDemo.exe
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestSynExceptionDemo.pdb
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestSynExceptionDemo.csprojResolveAssemblyReference.cache

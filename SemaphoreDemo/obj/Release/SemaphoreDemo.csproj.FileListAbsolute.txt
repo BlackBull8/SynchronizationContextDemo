@@ -1,0 +1,7 @@
+G:\SynchronizationContextTestDemo\SemaphoreDemo\bin\Release\SemaphoreDemo.exe.config
+G:\SynchronizationContextTestDemo\SemaphoreDemo\bin\Release\SemaphoreDemo.exe
+G:\SynchronizationContextTestDemo\SemaphoreDemo\bin\Release\SemaphoreDemo.pdb
+G:\SynchronizationContextTestDemo\SemaphoreDemo\obj\Release\SemaphoreDemo.csprojResolveAssemblyReference.cache
+G:\SynchronizationContextTestDemo\SemaphoreDemo\obj\Release\SemaphoreDemo.csproj.CoreCompileInputs.cache
+G:\SynchronizationContextTestDemo\SemaphoreDemo\obj\Release\SemaphoreDemo.exe
+G:\SynchronizationContextTestDemo\SemaphoreDemo\obj\Release\SemaphoreDemo.pdb

@@ -1,0 +1,7 @@
+G:\SynchronizationContextTestDemo\TestDemoConsole\bin\Release\TestDemoConsole.exe.config
+G:\SynchronizationContextTestDemo\TestDemoConsole\bin\Release\TestDemoConsole.exe
+G:\SynchronizationContextTestDemo\TestDemoConsole\bin\Release\TestDemoConsole.pdb
+G:\SynchronizationContextTestDemo\TestDemoConsole\obj\Release\TestDemoConsole.csprojResolveAssemblyReference.cache
+G:\SynchronizationContextTestDemo\TestDemoConsole\obj\Release\TestDemoConsole.csproj.CoreCompileInputs.cache
+G:\SynchronizationContextTestDemo\TestDemoConsole\obj\Release\TestDemoConsole.exe
+G:\SynchronizationContextTestDemo\TestDemoConsole\obj\Release\TestDemoConsole.pdb

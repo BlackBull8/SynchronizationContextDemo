@@ -1,0 +1,14 @@
+G:\SynchronizationContextTestDemo\TestDemo\bin\Release\TestDemo.exe.config
+G:\SynchronizationContextTestDemo\TestDemo\bin\Release\TestDemo.exe
+G:\SynchronizationContextTestDemo\TestDemo\bin\Release\TestDemo.pdb
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\MainWindow.g.cs
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\App.g.cs
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestDemo_MarkupCompile.cache
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestDemo_MarkupCompile.lref
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\MainWindow.baml
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestDemo.g.resources
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestDemo.Properties.Resources.resources
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestDemo.csproj.GenerateResource.Cache
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestDemo.csproj.CoreCompileInputs.cache
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestDemo.exe
+G:\SynchronizationContextTestDemo\TestDemo\obj\Release\TestDemo.pdb
