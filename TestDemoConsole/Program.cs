@@ -7,12 +7,11 @@ using System.Threading.Tasks;
 
 namespace TestDemoConsole
 {
-    class Program
+    static class Program
     {
-        private static SynchronizationContext mT1 = null;
+        private static SynchronizationContext _mT1 = null;
         static void Main(string[] args)
         {
-            // log the thread id
             int id = Thread.CurrentThread.ManagedThreadId;
             Console.WriteLine("Main thread is " + id);
 
